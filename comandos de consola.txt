@@ -1,0 +1,9 @@
+git clone https://github.com/Dannysdp/Hola-Mundo.git
+git add README.md
+git commit
+git push
+git pull
+git add lib 
+git add src 
+git commit -m "nuevo proyecto"
+gir push 
